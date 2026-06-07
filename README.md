@@ -209,7 +209,7 @@ src/
 | Guilherme Nolasco Tucunduva | [@...](cole o link aq) | RA : 82426695
 | Jhonattan da Costa Almeida | [@Jhon030308](https://github.com/Jhon030308) | RA : 82421914
 | Pedro Henrique Carvalho Vieira | [@phcarvalho19](https://github.com/phcarvalho19) | RA : 824211592
-| Sandy Andrade Pinho | [@...](cole o link aq) | RA : 8261105964
+| Sandy Andrade Pinho | [@SandyAndrade...](https://github.com/Sandy-andrade) | RA : 8261105964
 | Gustavo Resende Fernandes | [@...](cole o link aq) | RA : 82414925
 | Gustavo Almeida dos Santos Cunha  | [@...](cole o link aq) | RA : 824233519
 
